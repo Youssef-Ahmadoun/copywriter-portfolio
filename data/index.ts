@@ -8,7 +8,7 @@ export const navItems = [
 export const gridItems = [
   {
     id: 1,
-    title: "I prioritize client collaboration, fostering open communication ",
+    title: "I prioritize real collaboration and believe strong results come from clear, open dialogue. ",
     description: "",
     className: "lg:col-span-3 md:col-span-6 md:row-span-4 lg:min-h-[60vh]",
     imgClassName: "w-full h-full",
@@ -18,7 +18,7 @@ export const gridItems = [
   },
   {
     id: 2,
-    title: "I'm very flexible with time zone communications",
+    title: "I work seamlessly across time zones and keep communication clear and efficient.",
     description: "",
     className: "lg:col-span-2 md:col-span-3 md:row-span-2",
     imgClassName: "",
@@ -28,7 +28,7 @@ export const gridItems = [
   },
   {
     id: 3,
-    title: "My tech stack",
+    title: "My CP Toolkit",
     description: "I constantly try to improve",
     className: "lg:col-span-2 md:col-span-3 md:row-span-2",
     imgClassName: "",
@@ -38,7 +38,7 @@ export const gridItems = [
   },
   {
     id: 4,
-    title: "Tech enthusiast with a passion for development.",
+    title: "Copy geek with a passion for persuasion, psychology, and strategic messaging.",
     description: "",
     className: "lg:col-span-2 md:col-span-3 md:row-span-1",
     imgClassName: "",
@@ -49,17 +49,17 @@ export const gridItems = [
 
   {
     id: 5,
-    title: "Currently building a JS Animation library",
+    title: "Currently mastering proven strategies to become one of the world's top marketers.",
     description: "The Inside Scoop",
     className: "md:col-span-3 md:row-span-2",
     imgClassName: "absolute right-0 bottom-0 md:w-96 w-60",
     titleClassName: "justify-center md:justify-start lg:justify-center",
-    img: "/b5.svg",
+    img: "_.jpeg",
     spareImg: "/grid.svg",
   },
   {
     id: 6,
-    title: "Do you want to start a project together?",
+    title: "Want to kick off your next project with sharp, sales-driven copy?",
     description: "",
     className: "lg:col-span-2 md:col-span-3 md:row-span-1",
     imgClassName: "",
@@ -72,66 +72,66 @@ export const gridItems = [
 export const projects = [
   {
     id: 1,
-    title: "3D Solar System Planets to Explore",
-    des: "Explore the wonders of our solar system with this captivating 3D simulation of the planets using Three.js.",
-    img: "/p1.svg",
-    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-    link: "/ui.earth.com",
+    title: "Story-Telling: Trouble Maker",
+    des: "Explore the power of language through this captivating story-driven journey into mastering new words and worlds.",
+    img: "language.svg",
+    iconLists: ["uk2.png", "spain.png", "china.png", "saudi.svg", "rusia.png"],
+    link: "https://drive.google.com/drive/folders/1mAY7Z3m90zhI4DVg_QErXbeNoMuaXzlD?usp=drive_link",
   },
   {
     id: 2,
-    title: "Yoom - Video Conferencing App",
-    des: "Simplify your video conferencing experience with Yoom. Seamlessly connect with colleagues and friends.",
-    img: "/p2.svg",
-    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
-    link: "/ui.yoom.com",
+    title: "Story-Telling: The Story Spine",
+    des: "Explore the power of language through this captivating story-driven journey into mastering new words and worlds.",
+    img: "storyspine.png",
+    iconLists: ["uk2.png", "spain.png", "china.png", "saudi.svg", "rusia.png"],
+    link: "https://drive.google.com/drive/folders/1mAY7Z3m90zhI4DVg_QErXbeNoMuaXzlD?usp=drive_link",
   },
   {
     id: 3,
-    title: "AI Image SaaS - Canva Application",
-    des: "A REAL Software-as-a-Service app with AI features and a payments and credits system using the latest tech stack.",
-    img: "/p3.svg",
-    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
-    link: "/ui.aiimg.com",
+    title: "Sales Page",
+    des: "Explore the power of language through this captivating story-driven journey into mastering new words and worlds.",
+    img: "salespage.jpg",
+    iconLists: ["uk2.png", "spain.png", "china.png", "saudi.svg", "rusia.png"],
+    link: "https://drive.google.com/drive/folders/1mAY7Z3m90zhI4DVg_QErXbeNoMuaXzlD?usp=drive_link",
   },
   {
     id: 4,
-    title: "Animated Apple Iphone 3D Website",
-    des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
-    img: "/p4.svg",
-    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-    link: "/ui.apple.com",
+    title: "ADs, Landing pages, Emails...",
+    des: "Coming soon...",
+    img: "commingsoon.png",
+    iconLists: ["s.png", "o.png", "o.png", "n.png", "smileface.png"],
+    link: "https://drive.google.com/drive/folders/1mAY7Z3m90zhI4DVg_QErXbeNoMuaXzlD?usp=drive_link",
   },
 ];
 
 export const testimonials = [
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+      "Collaborating with Joseph was an absolute pleasure. His professionalism, promptness, and dedication to delivering high-impact copy were evident throughout our project. Joseph’s passion for every word and message truly stands out. If you're looking to elevate your brand and connect deeply with your audience, Joseph is the ideal partner.",
     name: "Michael Johnson",
     title: "Director of AlphaStream Technologies",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+      "Collaborating with Joseph was an absolute pleasure. His professionalism, promptness, and dedication to delivering high-impact copy were evident throughout our project. Joseph’s passion for every word and message truly stands out. If you're looking to elevate your brand and connect deeply with your audience, Joseph is the ideal partner.",
     name: "Michael Johnson",
     title: "Director of AlphaStream Technologies",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+      "Collaborating with Joseph was an absolute pleasure. His professionalism, promptness, and dedication to delivering high-impact copy were evident throughout our project. Joseph’s passion for every word and message truly stands out. If you're looking to elevate your brand and connect deeply with your audience, Joseph is the ideal partner.",
     name: "Michael Johnson",
     title: "Director of AlphaStream Technologies",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+      "Collaborating with Joseph was an absolute pleasure. His professionalism, promptness, and dedication to delivering high-impact copy were evident throughout our project. Joseph’s passion for every word and message truly stands out. If you're looking to elevate your brand and connect deeply with your audience, Joseph is the ideal partner.",
     name: "Michael Johnson",
     title: "Director of AlphaStream Technologies",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+      "Collaborating with Joseph was an absolute pleasure. His professionalism, promptness, and dedication to delivering high-impact copy were evident throughout our project. Joseph’s passion for every word and message truly stands out. If you're looking to elevate your brand and connect deeply with your audience, Joseph is the ideal partner.",
     name: "Michael Johnson",
     title: "Director of AlphaStream Technologies",
   },
@@ -173,29 +173,29 @@ export const companies = [
 export const workExperience = [
   {
     id: 1,
-    title: "Frontend Engineer Intern",
-    desc: "Assisted in the development of a web-based platform using React.js, enhancing interactivity.",
+    title: "Copywriting intern with Adfliix, probably",
+    desc: "Hopefully...",
     className: "md:col-span-2",
     thumbnail: "/exp1.svg",
   },
   {
     id: 2,
-    title: "Mobile App Dev - JSM Tech",
-    desc: "Designed and developed mobile app for both iOS & Android platforms using React Native.",
+    title: "BLANK...",
+    desc: "This space will be filled soon with exciting updates",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp2.svg",
   },
   {
     id: 3,
-    title: "Freelance App Dev Project",
-    desc: "Led the dev of a mobile app for a client, from initial concept to deployment on app stores.",
+    title: "BLANK...",
+    desc: "This space will be filled soon with exciting updates",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp3.svg",
   },
   {
     id: 4,
-    title: "Lead Frontend Developer",
-    desc: "Developed and maintained user-facing features using modern frontend technologies.",
+    title: "BLANK...",
+    desc: "This space will be filled soon with exciting updates",
     className: "md:col-span-2",
     thumbnail: "/exp4.svg",
   },
@@ -204,14 +204,22 @@ export const workExperience = [
 export const socialMedia = [
   {
     id: 1,
-    img: "/git.svg",
+    img: "/twit.svg",
+    src: "",
   },
   {
     id: 2,
-    img: "/twit.svg",
+    img: "/link.svg",
+    src: "",
   },
   {
     id: 3,
-    img: "/link.svg",
+    img: "/insta.svg",
+    src: "https://www.instagram.com/book.nation_/?igsh=c3B6Y3A2ZXljODR6#",
+  },
+  {
+    id: 4,
+    img: "wha.svg",
+    src: "https://wa.me/qr/6NJCIOFYF5CHO1",
   },
 ];
